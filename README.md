@@ -5,14 +5,11 @@ Interactive Power BI Dashboard for Netflix & Amazon Prime Content Analysis
 </h3>
 
 <p align="center">
-
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-Analytics-blue?style=for-the-badge)
-![Power Query](https://img.shields.io/badge/Power%20Query-ETL-success?style=for-the-badge)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen?style=for-the-badge)
-
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/DAX-Analytics-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power%20Query-ETL-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Project-Completed-brightgreen?style=for-the-badge" />
 </p>
-
 ---
 
 ## 📖 Project Overview
@@ -155,7 +152,7 @@ The dashboard includes **built-in navigation buttons** that allow users to seaml
 ## 🎬 Netflix Content Analysis
 
 <p align="center">
-<img src="https://github.com/ImTaRunGupTa/Streaming-Content-Analysis/blob/main/Images/Netflix.png?raw=true" width="95%">
+<img src="https://github.com/ImTaRunGupTa/Streaming_Content_Analytics/blob/main/Images/Netflix.png" width="95%">
 </p>
 
 ---
@@ -163,7 +160,7 @@ The dashboard includes **built-in navigation buttons** that allow users to seaml
 ## 📺 Amazon Prime Video Analysis
 
 <p align="center">
-<img src="https://github.com/ImTaRunGupTa/Streaming-Content-Analysis/blob/main/Images/Prime_Video.png?raw=true" width="95%">
+<img src="https://github.com/ImTaRunGupTa/Streaming_Content_Analytics/blob/main/Images/Prime_Video.png" width="95%">
 </p>
 
 ---
@@ -293,20 +290,6 @@ The datasets include:
 
 </p>
 
----
 
-# ⭐ Support
-
-If you found this project helpful, consider giving it a **⭐ Star** on GitHub.
-
-It motivates me to build more **Power BI**, **Business Intelligence**, and **Data Analytics** projects.
-
----
-
-<p align="center">
-
-### Made with ❤️ using Power BI, Power Query & DAX
-
-⭐ **Don't forget to Star this Repository!**
 
 </p>
