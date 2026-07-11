@@ -10,7 +10,7 @@ Interactive Power BI Dashboard for Netflix & Amazon Prime Content Analysis
   <img src="https://img.shields.io/badge/Power%20Query-ETL-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Project-Completed-brightgreen?style=for-the-badge" />
 </p>
----
+
 
 ## 📖 Project Overview
 
@@ -71,11 +71,6 @@ This project demonstrates a complete **Business Intelligence workflow**, includi
 
 ---
 
-# 🚀 Dashboard Preview
-
-<p align="center">
-<img src="https://github.com/ImTaRunGupTa/Streaming-Content-Analysis/blob/main/Images/Netflix.png?raw=true" width="95%">
-</p>
 
 ---
 
