@@ -72,8 +72,6 @@ This project demonstrates a complete **Business Intelligence workflow**, includi
 ---
 
 
----
-
 # 🛠 Tech Stack
 
 | Technology | Purpose |
